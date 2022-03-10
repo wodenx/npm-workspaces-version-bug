@@ -15,3 +15,10 @@ npm ERR! notarget No matching version found for pkg-b@^2.0.0.
 npm ERR! notarget In most cases you or one of your dependencies are requesting
 npm ERR! notarget a package version that doesn't exist.
 ```
+## Version Info
+```
+$ npm -v
+8.1.2
+$ node -v
+v16.13.1
+```
